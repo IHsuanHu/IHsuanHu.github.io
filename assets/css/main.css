@@ -282,11 +282,11 @@ input, select, textarea {
 		align-items: stretch;
 		justify-content: center;
 	}
-	.row h1{
+	/* .row h1{
 		color: white;
 		text-align: center;
 		font: 1em sans-serif;
-	}
+	} */
 
 		.row > * {
 			box-sizing: border-box;
